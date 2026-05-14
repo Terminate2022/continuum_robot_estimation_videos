@@ -6,15 +6,6 @@ This repository provides four supplementary videos for the manuscript:
 
 The videos show the reconstructed shapes of the continuum robot under sparse pose measurements. Three videos correspond to simulations, and one video corresponds to experiments. Each video includes results using one pose measurement and two pose measurements, together with comparisons against benchmark methods.
 
-## Video list
-
-| File | Description |
-|---|---|
-| Video_1_Simulation_Trajectory_S1.mp4 | Reconstruction results for the S1 trajectory. |
-| Video_2_Simulation_Trajectory_S2.mp4 | Reconstruction results for the S2 trajectory. |
-| Video_3_Simulation_Trajectory_C1.mp4 | Reconstruction results for the C1 trajectory. |
-| Video_4_Experimental.mp4 | Reconstruction results for the experiment. |
-
 ## Method labels used in the videos
 
 | Label | Meaning |
@@ -23,6 +14,19 @@ The videos show the reconstructed shapes of the continuum robot under sparse pos
 | S+T | . |
 | Proposed | Proposed estimator. |
 
-## Contact
+## Video 1: Simulated trajectory 1
 
-For questions about these supplementary materials, please contact the corresponding author.
+<video src="Video_1_Simulation_Trajectory_S1.mp4" controls width="720"></video>
+
+## Video 2: Simulated trajectory 2
+
+<video src="Video_2_Simulation_Trajectory_S2.mp4" controls width="720"></video>
+
+## Video 3: Simulated trajectory 3
+
+<video src="Video_3_Simulation_Trajectory_C1.mp4" controls width="720"></video>
+
+## Video 4: Experimental trajectory
+
+<video src="Video_4_Experiment.mp4" controls width="720"></video>
+
