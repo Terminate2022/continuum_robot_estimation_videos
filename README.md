@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/9a9319b8-b38d-4b35-8531-f29d45fa66c7
 # Supplementary Videos
 
 This repository provides four supplementary videos for the manuscript:
@@ -50,6 +48,10 @@ https://github.com/user-attachments/assets/3b1d6314-6d73-4779-bf2d-1d1943f6b01a
 
 ## Video 4: Experimental trajectory
 
+
+
+
+https://github.com/user-attachments/assets/0e181a6a-a543-421b-a972-87cae0e66587
 
 
 
