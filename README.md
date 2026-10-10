@@ -10,17 +10,17 @@ The videos show the reconstructed shapes of the continuum robot using different 
 
 The videos compare the following methods:
 
-GT (Ground Truth): Reference robot shapes.
+- GT (Ground Truth): Reference robot shapes.
 
-S(IJRR): Spatial Gaussian process estimator on SE(3), based on Lilge et al. [1].
+- S(IJRR): Spatial Gaussian process estimator on SE(3), based on Lilge et al. [1].
 
-S(TRO): Spatial state estimator based on Lilge et al. [2].
+- S(TRO): Spatial state estimator based on Lilge et al. [2].
 
-S+T: Spatiotemporal state estimator based on Teetaert et al. [3].
+- S+T: Spatiotemporal state estimator based on Teetaert et al. [3].
 
-S+A: Spatial estimator incorporating tendon-actuation information.
+- S+A: Spatial estimator incorporating tendon-actuation information.
 
-Proposed: The proposed method.
+- Proposed: The proposed method.
 
 In the simulation videos, all five estimation methods are evaluated compared with the ground truth; In the experimental video, S+A is excluded because it requires tendon-tension measurements, which are unavailable on our experimental platform. The remaining four estimation methods are compared under both measurement configurations.
 
