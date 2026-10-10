@@ -12,13 +12,13 @@ The videos compare the following methods:
 
 - GT (Ground Truth): Reference robot shapes.
 
-- S(Lilge2022): Spatial Gaussian process estimator on SE(3), based on Lilge et al. [1].
+- S(Lilge2022): Spatial state estimator on SE(3) [1].
 
-- S(Lilge2025): Spatial state estimator based on Lilge et al. [2].
+- S(Lilge2025): Spatial state estimator on SE(3) for Multirobot Systems [2].
 
-- S+T: Spatiotemporal state estimator based on Teetaert et al. [3].
+- S+T: Spatiotemporal state estimator. [3].
 
-- S+A: Spatial estimator incorporating tendon-actuation information.
+- S+A: Spatial estimator incorporating control inputs.
 
 - Proposed: The proposed method.
 
