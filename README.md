@@ -12,13 +12,13 @@ The videos compare the following methods:
 
 - GT (Ground Truth): Reference robot shapes.
 
-- S(Lilge2022): Spatial state estimator on SE(3) [1].
+- S(Lilge2022): Spatial state estimator [1].
 
-- S(Lilge2025): Spatial state estimator on SE(3) for Multirobot Systems [2].
+- S(Lilge2025): Spatial state estimator for Multirobot Systems [2].
 
-- S+T: Spatiotemporal state estimator. [3].
+- S+T: Spatiotemporal state estimator [3].
 
-- S+A: Spatial estimator incorporating control inputs.
+- S+A: Spatial estimator incorporating control inputs [4].
 
 - Proposed: The proposed method.
 
