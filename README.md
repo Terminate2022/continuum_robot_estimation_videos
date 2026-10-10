@@ -11,20 +11,13 @@ The videos show the reconstructed shapes of the continuum robot under sparse pos
 The benchmark methods include the spatial estimator based on SE(3) proposed by Lilge et al. [1], denoted as **S**, and the spatiotemporal estimator proposed by Teetaert et al. [2], denoted as **S+T**. 
 
 ## Video 1: Simulation trajectory S1
-
-https://github.com/user-attachments/assets/85ac8965-ec36-4da6-b371-8b41be11efa2
-
+https://github.com/user-attachments/assets/2bb9571e-3062-476f-833a-9a8f8e3dfbfe
 ## Video 2: Simulation trajectory S2
-
-https://github.com/user-attachments/assets/157654fd-fa82-4910-a999-25f05a04adc8
-
+https://github.com/user-attachments/assets/3e9b98cb-3b37-4be7-a02d-578cf26abbf6
 ## Video 3: Simulation trajectory C1
-
-https://github.com/user-attachments/assets/3e9acf01-b33f-4902-a598-c4670d4a6b84
-
+https://github.com/user-attachments/assets/83481d3b-3737-41c2-ab93-3783cc631c44
 ## Video 4: Experimental trajectory
-
-https://github.com/user-attachments/assets/f8864f3e-1f0f-459e-8631-423e88ceed50
+https://github.com/user-attachments/assets/ec825da4-a12c-45f1-b241-cee95a5ebe2c
 
 ## References
 
