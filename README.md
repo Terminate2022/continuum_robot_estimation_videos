@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/9a9319b8-b38d-4b35-8531-f29d45fa66c7
 # Supplementary Videos
 
 This repository provides four supplementary videos for the manuscript:
@@ -25,13 +27,33 @@ The videos compare the following methods:
 In the simulation videos, all five estimation methods are evaluated compared with the ground truth; In the experimental video, S+A is excluded because it requires tendon-tension measurements, which are unavailable on our experimental platform. The remaining four estimation methods are compared under both measurement configurations.
 
 ## Video 1: Simulation trajectory S1
-https://github.com/user-attachments/assets/2bb9571e-3062-476f-833a-9a8f8e3dfbfe
+
+
+
+https://github.com/user-attachments/assets/66bb6b45-070c-4e89-b991-b14a5cc57c96
+
+
+
 ## Video 2: Simulation trajectory S2
-https://github.com/user-attachments/assets/3e9b98cb-3b37-4be7-a02d-578cf26abbf6
+
+
+https://github.com/user-attachments/assets/e26855ad-da0c-4ad8-8b4e-ff3ce0a7719f
+
+
 ## Video 3: Simulation trajectory C1
-https://github.com/user-attachments/assets/ec825da4-a12c-45f1-b241-cee95a5ebe2c
+
+
+
+https://github.com/user-attachments/assets/3b1d6314-6d73-4779-bf2d-1d1943f6b01a
+
+
+
 ## Video 4: Experimental trajectory
-https://github.com/user-attachments/assets/83481d3b-3737-41c2-ab93-3783cc631c44
+
+
+
+
+
 ## References
 
 [1] S. Lilge, T. D. Barfoot, and J. Burgner-Kahrs, "Continuum Robot State Estimation Using Gaussian Process Regression on SE(3)," *The International Journal of Robotics Research*, vol. 41, nos. 13–14, pp. 1099–1120, 2022. https://doi.org/10.1177/02783649221128843
