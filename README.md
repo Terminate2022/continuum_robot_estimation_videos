@@ -24,7 +24,7 @@ The videos compare the following methods:
 
 In the simulation videos, all five estimation methods are evaluated compared with the ground truth; In the experimental video, S+A is excluded because it requires tendon-tension measurements, which are unavailable on our experimental platform. The remaining four estimation methods are compared under both measurement configurations.
 
-## Video 1: Simulation trajectory S1
+## Video 1: Simulation trajectory Tr1
 
 
 
@@ -32,13 +32,13 @@ https://github.com/user-attachments/assets/66bb6b45-070c-4e89-b991-b14a5cc57c96
 
 
 
-## Video 2: Simulation trajectory S2
+## Video 2: Simulation trajectory Tr2
 
 
 https://github.com/user-attachments/assets/e26855ad-da0c-4ad8-8b4e-ff3ce0a7719f
 
 
-## Video 3: Simulation trajectory C1
+## Video 3: Simulation trajectory Tr3
 
 
 
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/3b1d6314-6d73-4779-bf2d-1d1943f6b01a
 
 
 
-## Video 4: Experimental trajectory
+## Video 4: Experimental trajectory / Continuous trajectory
 
 
 
