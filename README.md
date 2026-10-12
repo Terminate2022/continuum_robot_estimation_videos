@@ -28,21 +28,33 @@ In the simulation videos, all five estimation methods are evaluated compared wit
 
 
 
-https://github.com/user-attachments/assets/66bb6b45-070c-4e89-b991-b14a5cc57c96
+
+
+https://github.com/user-attachments/assets/45f474ae-1116-4263-9d12-b5183f2af528
+
+
 
 
 
 ## Video 2: Simulation trajectory Tr2
 
 
-https://github.com/user-attachments/assets/e26855ad-da0c-4ad8-8b4e-ff3ce0a7719f
+
+
+https://github.com/user-attachments/assets/f51e3496-8645-4842-bab9-74e1d7469d27
+
+
 
 
 ## Video 3: Simulation trajectory Tr3
 
 
 
-https://github.com/user-attachments/assets/3b1d6314-6d73-4779-bf2d-1d1943f6b01a
+
+
+https://github.com/user-attachments/assets/f0a7e9f3-dfb2-41d2-aa1d-c467aafa1ba4
+
+
 
 
 
